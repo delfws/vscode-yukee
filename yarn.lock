@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@types/mocha@^2.2.42":
-  version "2.2.48"
-  resolved "http://registry.npm.taobao.org/@types/mocha/download/@types/mocha-2.2.48.tgz#3523b126a0b049482e1c3c11877460f76622ffab"
-  integrity sha1-NSOxJqCwSUguHDwRh3Rg92Yi/6s=
+"@types/mocha@^9.0.0":
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-9.0.0.tgz#3205bcd15ada9bc681ac20bef64e9e6df88fd297"
+  integrity sha512-scN0hAWyLVAvLR9AyW7HoFF5sJZglyBsbPuHO4fv7JRvfmPBMfp1ozWqOf/e4wwPNxezBZXRfWzMb6iFLgEVRA==
 
 "@types/node@^10.12.21":
   version "10.14.4"
